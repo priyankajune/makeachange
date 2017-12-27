@@ -1,0 +1,55 @@
+.bimage
+{
+background-image:url("6.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+font-family:'handlee',cursive;
+font-size:25pt;
+text-align:center;
+
+}
+.learnmore
+{margin-bottom: 10px;
+border-radius: 10px;}
+h2
+{font-size:20pt;
+color:#000011;
+text-align:center;
+padding:18px 0 18px 0;}
+h2 span
+{border: 4px dashed #000011;
+padding: 10px;}
+
+h1
+{
+font-size:40pt;
+color:#000011;
+text-align:center;
+padding:18px 0 18px 0;
+}
+h1 span
+{
+border: 4px dashed #000011;
+padding: 10px;
+}
+.section
+{
+margin-bottom: 10px;
+border-radius: 10px;
+}
+b
+{
+font-size:35pt;
+
+}
+.quote
+{
+font-family:florence,cursive;
+color:red;}
+a:link{text-decoration:none;}
+.copyright
+{
+font-size: 8pt;
+text-align:right;
+padding-bottom:2px;
+color:grey;}

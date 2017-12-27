@@ -1,0 +1,71 @@
+.bimage
+{
+background-image:url("6.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+font-family:'handlee',cursive;
+font-size:25pt;
+text-align:center;
+
+}
+
+
+h1
+{
+font-size:40pt;
+color:red;
+text-align:center;
+padding:18px 0 18px 0;
+}
+h1 span
+{
+border: 4px dashed #000011;
+padding: 10px;
+}
+.section
+{
+margin-bottom: 10px;
+border-radius: 10px;
+}
+b
+{
+font-size:35pt;
+
+}
+.quote
+{
+font-family:florence,cursive;
+color:grey;}
+.signup
+{font-family:florence,cursive;
+color:Red;}
+.submit
+{
+background:#3fb6b2;
+padding: 12px 45px;
+border-radius: 5px;
+cursor: pointer;
+color: #ffffff;
+border:none;
+outline: none;
+margin: 0;
+font-weight:bold;}
+.submit:hover{background-color: #43a09d;}
+textarea{ height: 100px;}
+input, textarea{
+margin-bottom: 10px;
+font-size:11pt;
+padding: 15px 10px 10px;
+border: 1px solid #cecece;
+background-color: #efefef;
+color: #787575;
+border-radius: 5px;
+width: 70%;
+outline: none;}
+
+.copyright
+{
+font-size: 8pt;
+text-align:right;
+padding-bottom:2px;
+color:grey;}

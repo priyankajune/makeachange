@@ -1,0 +1,54 @@
+.bimage
+{
+background-image:url("6.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+font-family:'handlee',cursive;
+font-size:25pt;
+text-align:center;
+
+}
+.section
+{
+margin-bottom: 10px;
+border-radius: 10px;
+}
+
+
+h1
+{
+font-size:40pt;
+color:red;
+text-align:center;
+padding:18px 0 18px 0;
+}
+h1 span
+{
+border: 4px dashed #000011;
+padding: 10px;
+}
+
+b
+{
+font-size:35pt;
+
+}
+.quote
+{ font-size:30pt;
+font-family:florence,cursive;
+color:grey;}
+.quote1
+{ font-size:20pt;
+color:Red;
+}
+.thanks
+{
+font-size:20pt;
+color:blue;
+}
+.copyright
+{
+font-size: 8pt;
+text-align:right;
+padding-bottom:2px;
+color:grey;}
